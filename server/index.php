@@ -1,4 +1,4 @@
 <?php
 echo "Test message: ";
-$testVar = 'Ana Valdemoro culo gordo';
+$testVar = 'Test message';
 echo $testVar;
