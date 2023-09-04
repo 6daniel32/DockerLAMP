@@ -1,5 +1,5 @@
 # Docker LAMP
-A very basic local LAMP virtual environment created on a docker compose for pet projects
+A basic local LAMP virtual environment created on a docker compose for pet projects
 
 ## Turning on your environment
 
